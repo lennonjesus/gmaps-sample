@@ -1,0 +1,22 @@
+{
+  "name": "gmaps-sample",
+  "description": "A simple gmaps.js sample project",
+  "main": "index.js",
+  "authors": [
+    "Lennon Jesus <lennon.jesus@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gmaps": "~0.4.22",
+    "jquery": "~2.2.1"
+  }
+}
