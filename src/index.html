@@ -86,6 +86,9 @@
             lat : item.location.lat,
             lng : item.location.lng,
             title : item.name,
+            infoWindow: {
+              content: item.name
+            },
             icon : {
               size : new google.maps.Size(32, 32),
               url : icon
